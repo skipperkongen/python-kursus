@@ -10,5 +10,6 @@ Kort navnerunde, alle siger deres navn og opsummerer kort deres programmeringser
 
 #### Links
 
+* [StackOverflow](http://www.stackoverflow.com), kunstig intelligens for programmører)
 * [5 reasons Python should be your first language](http://blog.trinket.io/why-python/)
 * [Tkinter hello world](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm)
