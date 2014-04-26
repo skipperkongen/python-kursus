@@ -4,6 +4,7 @@
 
 * Jeg snakker, I koder :-)
 * Når det driller søger vi på [google](https://www.google.dk/) (f.eks. efter indlæg på [stackoverflow](http://stackoverflow.com/)), læser i [dokumentationen](https://docs.python.org/2/) (f.eks. [generel hjælp](https://docs.python.org/2/), [basis sproget](https://docs.python.org/2/reference/index.html), [standardbibliotek](https://docs.python.org/2/library/index.html)), bruger Pythons interaktive hjælp ([dir](https://docs.python.org/2/library/functions.html#dir)/[help](https://docs.python.org/2/library/functions.html#help)) og undersøger om der allerede findes et modul der gør det vi vil (f.eks. [pypi](https://pypi.python.org/pypi) og [pip](http://www.pip-installer.org/en/latest/)) 
+* Vi bruger Python 2, fordi forskellen til Python 3 er minimal og fordi [virkeligt mange stadigt bruger Python 2](http://programmers.stackexchange.com/questions/63859/why-do-people-hesitate-to-use-python-3)
 
 ## Læringsmål
 
@@ -11,10 +12,6 @@
 * Du vil lære hvilke værktøjer du skal bruge: f.eks. en text editor (notepad, textmate, notepad++) eller en IDE (Eclipse, PyCharm)
 * Du vil lære at kode Python til [kommandolinjen](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web](http://flask.pocoo.org/docs/quickstart/) og [GUI](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm)'er
 * Du vil lære de 20% af Pythons syntax, standard-bibliotek og udvidelser, der løser 80% af problemerne (nok vigtigst af alt!)
-
-## Meta
-
-* Vi bruger Python 2, fordi forskellen til Python 3 er minimal og fordi [virkeligt mange stadigt bruger Python 2](http://programmers.stackexchange.com/questions/63859/why-do-people-hesitate-to-use-python-3).
 
 ## Program Dag 1
 
