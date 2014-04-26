@@ -7,7 +7,7 @@
 
 ## Læringsmål
 
-* Du vil lære hvad Python er: [fortolket](http://en.wikipedia.org/wiki/Interpreted_language) (compiler til bytecode, ikke maskinkode), [general purpose programmeringssprog](http://en.wikipedia.org/wiki/General-purpose_programming_language) med [duck typing](http://en.wikipedia.org/wiki/Duck_typing#In_Python) og ["zen of python"](http://legacy.python.org/dev/peps/pep-0020/) (lidt noget pjat, men det lyder cool)
+* Du vil lære hvad Python er: [fortolket](http://en.wikipedia.org/wiki/Interpreted_language), [general purpose programmeringssprog](http://en.wikipedia.org/wiki/General-purpose_programming_language) med [duck typing](http://en.wikipedia.org/wiki/Duck_typing#In_Python) og ["zen of python"](http://legacy.python.org/dev/peps/pep-0020/) (lidt noget pjat, men det lyder cool)
 * Hvilke værktøjer er nødvendige? (text editor, IDE, python miljø)
 * Hvad kan Python bruges til? ([konsol](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web](http://flask.pocoo.org/docs/quickstart/), [gui](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm))
 * Hvor kan du afvikle et Python program? (windows, linux, os x).
