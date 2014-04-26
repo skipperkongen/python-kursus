@@ -1,3 +1,9 @@
+# Undervisningsform
+
+* Jeg snakker, I koder :-)
+* Vi bruger nettet når det driller: Q&A (stackoverflow), references ([docs.python.org/2](https://docs.python.org/2/))
+* Vi bruger Python 2, fordi forskellen til Python 3 er minimal og fordi [virkeligt mange stadigt bruger Python 2](http://programmers.stackexchange.com/questions/63859/why-do-people-hesitate-to-use-python-3).
+
 # Python kursus - Program
 
 ## Dag 1
