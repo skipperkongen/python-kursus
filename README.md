@@ -1,4 +1,4 @@
-# Et to-dages kursus i Python (2) programmering for begyndere
+# To-dages introduktion til Python
 
 ## Undervisningsform
 
