@@ -9,7 +9,7 @@
 
 * Du vil lære hvad Python er: [fortolket](http://en.wikipedia.org/wiki/Interpreted_language), [general purpose programmeringssprog](http://en.wikipedia.org/wiki/General-purpose_programming_language) med [duck typing](http://en.wikipedia.org/wiki/Duck_typing#In_Python) og ["zen of python"](http://legacy.python.org/dev/peps/pep-0020/)
 * Du vil lære hvordan du bruger værktøjerne: text editor, IDE, python miljø
-* Du vil lære hvad kan Python bruges til: [konsol](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web](http://flask.pocoo.org/docs/quickstart/), [gui](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm)
+* Du vil lære at kode til [kommandolinjen](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web](http://flask.pocoo.org/docs/quickstart/) og [GUI](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm)
 * Du vil lære hvor Python programmer kan køres: Kort sagt, alle steder (windows, linux, os x).
 * Du vil lære Pythons syntax (basis sprog), standard-bibliotek og udvidelser
 * Du vil lære hvad du skal gøre når du går i stå: dokumentation ([generel hjælp](https://docs.python.org/2/), [basis sproget](https://docs.python.org/2/reference/index.html), [standardbibliotek](https://docs.python.org/2/library/index.html)), [dir](https://docs.python.org/2/library/functions.html#dir)/[help](https://docs.python.org/2/library/functions.html#help) i prompten (hvis du f.eks. kender funktionen men ikke ved hvordan du skal bruge den), google/[stackoverflow](http://stackoverflow.com) (hvis du kender problemet, men ikke har nogen ide om hvordan du konkret gør), [pypi](https://pypi.python.org/pypi)/[pip](http://www.pip-installer.org/en/latest/) (hvis du ikke vil genopfinde den dybe tallerken)
