@@ -1,4 +1,4 @@
-# Python Kursus 2014
+# Et to-dages kursus i Python (2) programmering for begyndere
 
 ## Undervisningsform
 
