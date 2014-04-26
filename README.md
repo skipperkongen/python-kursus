@@ -1,26 +1,33 @@
-# Undervisningsform
+# Python Kursus 2014
+
+## Undervisningsform
 
 * Jeg snakker, I koder :-)
 * Vi bruger nettet når det driller: Q&A (stackoverflow), references ([docs.python.org/2](https://docs.python.org/2/))
+
+## Læringsmål
+
+* Du vil lære hvad Python er: [fortolket](http://en.wikipedia.org/wiki/Interpreted_language) (compiler til bytecode, ikke maskinkode), [general purpose programmeringssprog](http://en.wikipedia.org/wiki/General-purpose_programming_language) med [duck typing](http://en.wikipedia.org/wiki/Duck_typing#In_Python) og ["zen of python"](http://legacy.python.org/dev/peps/pep-0020/) (lidt noget pjat, men det lyder cool)
+* Hvilke værktøjer er nødvendige? (text editor, IDE, python miljø)
+* Hvad kan Python bruges til? ([konsol](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web](http://flask.pocoo.org/docs/quickstart/), [gui](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm))
+* Hvor kan du afvikle et Python program? (windows, linux, os x).
+* Lære at programmere i Python (syntax, basis sprog)
+* Lære at programmere i Python (standard-biblioteket)
+* Lære at programmere i Python (udvidelser)
+* Hvor kan jeg få hjælp: dir/help i prompten (hvis du kender objektet), google/stackoverflow (hvis du kender problemet), pypi/genopfind-ikke-den-dybe-tallerken (hvis du tror nogen
+
+## Meta
+
 * Vi bruger Python 2, fordi forskellen til Python 3 er minimal og fordi [virkeligt mange stadigt bruger Python 2](http://programmers.stackexchange.com/questions/63859/why-do-people-hesitate-to-use-python-3).
 
-# Python kursus - Program
-
-## Dag 1
+## Program Dag 1
 
 ### 8:30- 9:30
 
 * Kort navnerunde, alle siger deres navn og opsummerer kort deres programmeringserfaring
 * Undervisningsform: Jeg snakker, I koder (i konsol og i filer), når det driller bruger vi nettet. Forstå de 20% af Python der løser problemerne i 80% af tilfældende.
 * Læringsmål:
-    * Hvad er Python? (general purpose programmeringssprog, fortolket, duck typing, zen of python)
-    * Hvilke værktøjer skal du bruge for at programmere i Python? (text editor, IDE)?
-    * Hvad kan Python bruges til? (konsol, web, gui)
-    * Hvor kan du afvikle et python program? (windows, linux, os x).
-    * Lære at programmere i Python (syntax, basis sprog)
-    * Lære at programmere i Python (standard-biblioteket)
-    * Lære at programmere i Python (udvidelser)
-    * Hvor kan jeg få hjælp: dir/help i prompten (hvis du kender objektet), google/stackoverflow (hvis du kender problemet), pypi/genopfind-ikke-den-dybe-tallerken (hvis du tror nogen har lavet det før, kan ofte findes via google/stackoverflow)
+har lavet det før, kan ofte findes via google/stackoverflow)
 * Check af alles Python installation (2.7.5). Ikke vigtigt med setuptools.
 * Første success: Hello world i Python
 * Fail fast: Hello indentation error i Python
