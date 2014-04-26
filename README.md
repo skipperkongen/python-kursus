@@ -3,7 +3,7 @@
 ## Undervisningsform
 
 * Jeg snakker, I koder :-)
-* Vi hjælper os selv når det driller: d.v.s. vi søger på [google](https://www.google.dk/)+[stackoverflow](http://stackoverflow.com/)), læser i [dokumentationen](https://docs.python.org/2/) (f.eks. [generel hjælp](https://docs.python.org/2/), [basis sproget](https://docs.python.org/2/reference/index.html), [standardbibliotek](https://docs.python.org/2/library/index.html)), bruger Pythons interaktive hjælp ([dir](https://docs.python.org/2/library/functions.html#dir)/[help](https://docs.python.org/2/library/functions.html#help)) og undersøger altid om der er nogen der har kodet det for os ( [pypi](https://pypi.python.org/pypi)/[pip](http://www.pip-installer.org/en/latest/)) 
+* Når det driller søger vi på [google](https://www.google.dk/)+[stackoverflow](http://stackoverflow.com/)), læser i [dokumentationen](https://docs.python.org/2/) (f.eks. [generel hjælp](https://docs.python.org/2/), [basis sproget](https://docs.python.org/2/reference/index.html), [standardbibliotek](https://docs.python.org/2/library/index.html)), bruger Pythons interaktive hjælp ([dir](https://docs.python.org/2/library/functions.html#dir)/[help](https://docs.python.org/2/library/functions.html#help)) og undersøger om der er findes et modul til det (f.eks. [pypi](https://pypi.python.org/pypi) og [pip](http://www.pip-installer.org/en/latest/)) 
 
 ## Læringsmål
 
