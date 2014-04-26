@@ -7,7 +7,7 @@
 
 ## Læringsmål
 
-* Du vil lære hvad Python er: et [fortolket](http://en.wikipedia.org/wiki/Interpreted_language), [stærkt og dynamisk typet](http://stackoverflow.com/questions/2351190/static-dynamic-vs-strong-weak), [general purpose programmeringssprog](http://en.wikipedia.org/wiki/General-purpose_programming_language) med [duck typing](http://en.wikipedia.org/wiki/Duck_typing#In_Python) og ["zen of python"](http://legacy.python.org/dev/peps/pep-0020/), som kan afvikles på Windows, Linux, BSD, Mac OS X o.m.a.
+* Du vil lære hvad det betyder at Python er et [fortolket](http://en.wikipedia.org/wiki/Interpreted_language), [stærkt og dynamisk typet](http://stackoverflow.com/questions/2351190/static-dynamic-vs-strong-weak), [general purpose programmeringssprog](http://en.wikipedia.org/wiki/General-purpose_programming_language) med [duck typing](http://en.wikipedia.org/wiki/Duck_typing#In_Python) og ["zen of python"](http://legacy.python.org/dev/peps/pep-0020/), som kan afvikles på Windows, Linux, BSD, Mac OS X o.m.a.
 * Du vil lære værktøjerne at kende: text editor, IDE, python miljø
 * Du vil lære at kode Python til [kommandolinjen](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web](http://flask.pocoo.org/docs/quickstart/) og [GUI](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm)
 * Du vil lære Pythons syntax (basis sprog), standard-bibliotek og udvidelser
