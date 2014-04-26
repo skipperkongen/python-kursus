@@ -4,7 +4,8 @@
 
 ### 8:30- 9:30
 
-* Kort navnerunde, alle siger deres navn og opsummerer kort deres programmeringserfaring.
+* Kort navnerunde, alle siger deres navn og opsummerer kort deres programmeringserfaring
+* Undervisningsform: Jeg snakker, I koder (i konsol og i filer), når det driller bruger vi nettet. Forstå de 20% af Python der løser problemerne i 80% af tilfældende.
 * Læringsmål:
     * Hvad er Python? (general purpose programmeringssprog, fortolket, duck typing, zen of python)
     * Hvilke værktøjer skal du bruge for at programmere i Python? (text editor, IDE)?
