@@ -14,7 +14,7 @@ Vi starter med en navnerunde. Sig dit navn og fortæl kort om din tidligere erfa
 
 #### 2: Brug Python interaktivt
 
-Åben kommando-prompten og skriv 'python' (får du en fejl eller en Python prompt?). Beskriv hvad du ser. Prøv at skrive 1+1 og tryk enter.
+Åben kommando-prompten (i Windows eller *nix) og skriv 'python' (får du en fejl eller en Python prompt?). Beskriv hvad du ser. Prøv at skrive 1+1 og tryk enter.
 
 **Tips**: check din PATH variabel hvis det ikke virker. Skriv 'quit()' + enter for at afslutte python fortolkeren (hvis det virker).
 
