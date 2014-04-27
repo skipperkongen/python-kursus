@@ -10,11 +10,19 @@ Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bru
 
 #### Navnerunde
 
-Vi starter med en navnerunde. Sig dit navn og fortæl kort om din erfaring med programmering generelt.
+Vi starter med en navnerunde. Sig dit navn og fortæl kort om din tidligere erfaringer med programmering (ikke kun Python).
 
 #### Check installationer
-2. Check af at alle har fået installeret Python korrekt
 
+1. Åben kommando-prompten og skriv 'python' (får du en fejl eller en Python prompt). Tips: check din PATH variabel.
+2. Opret en mappe på din computer, som vil indeholde den kode du skriver i de næste to dage.
+3. Lav en fil der hedder hello.py og indtast følgende indhold i den:
+
+Hello world i Python:
+
+```python
+# Opret en 
+```
 
 ## Undervisningsform
 
