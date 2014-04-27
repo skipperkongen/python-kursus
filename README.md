@@ -37,6 +37,6 @@ print 'Hello world'
 
 * [Objekter og Klasser](http://www.learnpython.org/en/Classes_and_Objects)
 * [Håndtering af fejl med exceptions](http://www.learnpython.org/en/Exception_Handling)
-* Dokumentation i Python
+* Dokumentation i Python (docstrings og dir/help funktioner)
 * [Strenge, tekst og formattering](http://www.learnpython.org/en/String_Formatting)
 * [Grundlæggende operationer på strings](http://www.learnpython.org/en/Basic_String_Operations)
