@@ -1,7 +1,5 @@
 # To-dages introduktion til Python
 
-Dette dokument indeholder alt hvad du skal bruge. Hvis der mangler noget så tilføjer vi det. 
-
 Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bruger nettet til at finde hjælp og lærer hvilke sider er bedst. Der er mange fordele ved Python; en af dem er at der er så mange aktive udviklere, at der altid er nogen der har stillet det samme spørgsmål som dig, og svaret findes næsten altid på [stackoverflow](http://stackoverflow.com/) (søg enten via Google eller direkte på stackoverflow).
 
 * Du vil lære hvad Python er, d.v.s. et [fortolket](http://en.wikipedia.org/wiki/Interpreted_language), [stærkt og dynamisk](http://stackoverflow.com/questions/2351190/static-dynamic-vs-strong-weak) typet (f.eks. med ["duck typing"](http://en.wikipedia.org/wiki/Duck_typing#In_Python)), [general purpose programmeringssprog](http://en.wikipedia.org/wiki/General-purpose_programming_language), der er ["zen"](http://legacy.python.org/dev/peps/pep-0020/) og kan køres stort set overalt (f.eks. på Windows, Linux, BSD, Mac OS X o.m.a.)
