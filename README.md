@@ -1,10 +1,24 @@
 # To-dages introduktion til Python
 
-Dette dokument indeholder alt hvad du skal bruge (og hvis der mangler noget så tilføjer vi det.
+Dette dokument indeholder alt hvad du skal bruge (og hvis der mangler noget så tilføjer vi det. 
+
+Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bruger nettet til at finde hjælp og lærer hvilke sider er bedst. Der er mange fordele ved Python; en af dem er at der er så mange aktive udviklere, at der altid er nogen der har stillet det samme spørgsmål som dig, og svaret findes næsten altid på [stackoverflow](http://stackoverflow.com/) (søg enten via Google eller direkte på stackoverflow).
+
+## Program
+
+### Dag 1: 8:30 - 9:45
+
+#### Navnerunde
+
+Vi starter med en navnerunde. Sig dit navn og fortæl kort om din erfaring med programmering generelt.
+
+#### Check installationer
+2. Check af at alle har fået installeret Python korrekt
+
 
 ## Undervisningsform
 
-* vi koder fra starten af :-)
+* 
 * vi finder hjælp på nettet ved at søge efter f.eks. [stackoverflow](http://stackoverflow.com/) indlæg, sider fra den [officielle Python dokumentation](https://docs.python.org/2/), hvad enten det handler om [basis sproget](https://docs.python.org/2/reference/index.html) eller [standardbibliotek](https://docs.python.org/2/library/index.html). Vi kan også bruge Pythons interaktive hjælp ([dir](https://docs.python.org/2/library/functions.html#dir)/[help](https://docs.python.org/2/library/functions.html#help)) samt undersøge om der allerede findes et modul der gør det vi vil (f.eks. [pypi](https://pypi.python.org/pypi) og [pip](http://www.pip-installer.org/en/latest/)) 
 * vi bruger Python 2 fordi forskellen til Python 3 er minimal og fordi [virkeligt mange stadigt bruger Python 2](http://programmers.stackexchange.com/questions/63859/why-do-people-hesitate-to-use-python-3)
 
