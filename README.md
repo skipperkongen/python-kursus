@@ -16,11 +16,13 @@ Vi starter med en navnerunde. Sig dit navn og fortæl kort om din tidligere erfa
 
 1. Åben kommando-prompten og skriv 'python' (får du en fejl eller en Python prompt?). Tips: check din PATH variabel hvis det ikke virker, skriv 'quit()' + enter hvor det virker.
 2. Opret en mappe på din computer, som vil indeholde den kode du skriver i de næste to dage.
-3. Skriv følgende i en fil med navn `hello.py` (som du gemmer i den mappe du lige har lavet):
+3. Skriv følgende indhold i en fil med navn `hello.py` (som du gemmer i den mappe du lige har lavet):
+
 ```python
 print 'Hello world'
+```
 
-
+Kør programmet ved at skrive `python hello.py`.
 
 
 ## Undervisningsform
