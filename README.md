@@ -6,11 +6,12 @@ Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bru
 
 * Du vil lære hvad Python er, d.v.s. et [fortolket](http://en.wikipedia.org/wiki/Interpreted_language), [stærkt og dynamisk](http://stackoverflow.com/questions/2351190/static-dynamic-vs-strong-weak) typet (f.eks. med ["duck typing"](http://en.wikipedia.org/wiki/Duck_typing#In_Python)), [general purpose programmeringssprog](http://en.wikipedia.org/wiki/General-purpose_programming_language), der er ["zen"](http://legacy.python.org/dev/peps/pep-0020/) og kan køres stort set overalt (f.eks. på Windows, Linux, BSD, Mac OS X o.m.a.)
 * Du vil lære hvilke værktøjer du skal bruge: f.eks. en text editor (notepad, textmate, notepad++) eller en IDE (Eclipse, PyCharm), samt en Python installation.
-* Du vil lære at kode Python til [kommandolinjen](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web-programmering](http://flask.pocoo.org/docs/quickstart/) og [GUI-programmerings](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm).
+* Du vil lære at kode Python til [kommandolinjen](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web-programmering](http://flask.pocoo.org/docs/quickstart/) og [GUI-programmerings](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm)
+* Vi bruger Python 2 fordi det er stort set det samme som Python 3, og der er stadig utroligt mange der bruger Python 2.
 
 ## Program - dag 1
 
-### 8:30 - 9:45
+### 8:30 - 10:00
 
 #### 1: Navnerunde
 
@@ -33,6 +34,18 @@ print 'Hello world'
 
 Dette er et Python program. Kør programmet ved at skrive `python hello.py` på kommandolinjen (du skal stå i samme mappe som filen er gemt i). Virkede det?
 
+#### 4: Grundlæggende Python
+
+Det grundlæggende elementer i Python består (som i de flere programmeringssprog) af følgende:
+
+* Udtryk, variable og typer (for mere information, se [Variables and Types](http://www.learnpython.org/en/Variables_and_Types))
+* Kontrolstrukturer, funktioner (for mere information, se [Conditions](http://www.learnpython.org/en/Conditions) og [Loops](http://www.learnpython.org/en/Loops))
+* Lister, tupler, sæt og dictionaries (for mere information, se [Lists](http://www.learnpython.org/en/Lists), [Dictionaries](http://www.learnpython.org/en/Dictionaries) og [Sets](http://www.learnpython.org/en/Sets))
+
+Øvelser:
+
+1. foo
+2. bar
 
 ## Program Dag 1
 
