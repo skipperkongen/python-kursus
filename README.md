@@ -2,10 +2,10 @@
 
 Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bruger nettet til at finde hjælp og lærer hvilke sider er bedst. Der er mange fordele ved Python; en af dem er at der er så mange aktive udviklere, at der altid er nogen der har stillet det samme spørgsmål som dig, og svaret findes næsten altid på [stackoverflow](http://stackoverflow.com/) (søg enten via Google eller direkte på stackoverflow).
 
-* Du vil lære hvad Python er, d.v.s. et [fortolket](http://en.wikipedia.org/wiki/Interpreted_language), [stærkt og dynamisk](http://stackoverflow.com/questions/2351190/static-dynamic-vs-strong-weak) typet (f.eks. med ["duck typing"](http://en.wikipedia.org/wiki/Duck_typing#In_Python)), [general purpose programmeringssprog](http://en.wikipedia.org/wiki/General-purpose_programming_language), der er ["zen"](http://legacy.python.org/dev/peps/pep-0020/) og kan køres stort set overalt (f.eks. på Windows, Linux, BSD, Mac OS X o.m.a.)
-* Du vil lære hvilke værktøjer du skal bruge: f.eks. en text editor (notepad, textmate, notepad++) eller en IDE (Eclipse, PyCharm), samt en Python installation.
+* Du vil lære hvad Python er
+* Du vil lære hvilke værktøjer du skal bruge
 * Du vil lære at kode Python til [kommandolinjen](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web-programmering](http://flask.pocoo.org/docs/quickstart/) og [GUI-programmerings](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm)
-* Vi bruger Python 2 fordi det er stort set det samme som Python 3, og der er stadig utroligt mange der bruger Python 2.
+* Vi bruger Python 2 (stort set det samme som Python 3, og bruges af utroligt mange)
 
 ## Program - dag 1
 
