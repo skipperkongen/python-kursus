@@ -22,7 +22,7 @@ Vi starter med en navnerunde. Sig dit navn og fortæl kort om din tidligere erfa
 print 'Hello world'
 ```
 
-Kør programmet ved at skrive `python hello.py`.
+Kør programmet ved at skrive `python hello.py` på kommandolinjen (du skal stå i samme mappe som filen er gemt i).
 
 
 ## Undervisningsform
