@@ -27,7 +27,7 @@ print 'Hello world'
 
 ### 9:00 - 12:00 (grundlæggende Python)
 
-* Atomer: udtryk, [variable og types](http://www.learnpython.org/en/Variables_and_Types))
+* Udtryk, [variable og types](http://www.learnpython.org/en/Variables_and_Types)
 * Datastrukturer: [lister](http://www.learnpython.org/en/Lists), [dictionaries](http://www.learnpython.org/en/Dictionaries) og [mængder](http://www.learnpython.org/en/Sets))
 * Kontrolstrukturer: ([conditions](http://www.learnpython.org/en/Conditions), [loops](http://www.learnpython.org/en/Loops)) og [funktioner](http://www.learnpython.org/en/Functions)
 
