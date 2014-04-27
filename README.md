@@ -6,7 +6,7 @@ Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bru
 
 ## Program
 
-### Dag 1: 8:30 - 9:45
+### 8:30 - 9:45 (dag 1)
 
 #### Navnerunde
 
