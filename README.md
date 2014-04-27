@@ -12,10 +12,15 @@ Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bru
 
 Vi starter med en navnerunde. Sig dit navn og fortæl kort om din tidligere erfaringer med programmering (ikke kun Python).
 
-#### 2: Check installationer
+#### 2: Brug Python interaktivt
 
-1. Åben kommando-prompten og skriv 'python' (får du en fejl eller en Python prompt?). Tips: check din PATH variabel hvis det ikke virker, skriv 'quit()' + enter hvor det virker.
-2. Opret en mappe på din computer, som vil indeholde den kode du skriver i de næste to dage.
+Åben kommando-prompten og skriv 'python' (får du en fejl eller en Python prompt?). Beskriv hvad du ser. Prøv at skrive 1+1 og tryk enter.
+
+**Tips**: check din PATH variabel hvis det ikke virker. Skriv 'quit()' + enter for at afslutte python fortolkeren (hvis det virker).
+
+#### 3: Dit første Python program
+
+2. Start med at opret en mappe på din computer, som vil indeholde de program-filer du skriver i de næste to dage.
 3. Lav en fil med navn 'hello.py' i mappen og skriv følgende indhold i filen:
 
 ```python
