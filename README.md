@@ -1,6 +1,6 @@
 # To-dages introduktion til Python
 
-Dette dokument indeholder alt hvad du skal bruge (og hvis der mangler noget så tilføjer vi det. 
+Dette dokument indeholder alt hvad du skal bruge. Hvis der mangler noget så tilføjer vi det. 
 
 Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bruger nettet til at finde hjælp og lærer hvilke sider er bedst. Der er mange fordele ved Python; en af dem er at der er så mange aktive udviklere, at der altid er nogen der har stillet det samme spørgsmål som dig, og svaret findes næsten altid på [stackoverflow](http://stackoverflow.com/) (søg enten via Google eller direkte på stackoverflow).
 
