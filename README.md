@@ -28,8 +28,8 @@ print 'Hello world'
 ### 9:00 - 12:00 (grundlæggende Python)
 
 * Udtryk, [variable og types](http://www.learnpython.org/en/Variables_and_Types)
-* Datastrukturer: [lister](http://www.learnpython.org/en/Lists), tupler, [dictionaries](http://www.learnpython.org/en/Dictionaries) og [mængder](http://www.learnpython.org/en/Sets))
-* Kontrolstrukturer: (både [conditions](http://www.learnpython.org/en/Conditions), [loops](http://www.learnpython.org/en/Loops))
+* Datastrukturer: [lister](http://www.learnpython.org/en/Lists), tupler, [dictionaries](http://www.learnpython.org/en/Dictionaries) og [mængder](http://www.learnpython.org/en/Sets)
+* Kontrolstrukturer: [conditions](http://www.learnpython.org/en/Conditions) og [loops](http://www.learnpython.org/en/Loops)
 * [Funktioner](http://www.learnpython.org/en/Functions)
 * Funktionel programmering (map, filter, aggregate, lambda, list comprehension)
 
