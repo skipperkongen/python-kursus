@@ -8,11 +8,11 @@ Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bru
 
 ### 8:30 - 9:45
 
-#### Navnerunde
+#### 1: Navnerunde
 
 Vi starter med en navnerunde. Sig dit navn og fortæl kort om din tidligere erfaringer med programmering (ikke kun Python).
 
-#### Check installationer
+#### 2: Check installationer
 
 1. Åben kommando-prompten og skriv 'python' (får du en fejl eller en Python prompt?). Tips: check din PATH variabel hvis det ikke virker, skriv 'quit()' + enter hvor det virker.
 2. Opret en mappe på din computer, som vil indeholde den kode du skriver i de næste to dage.
