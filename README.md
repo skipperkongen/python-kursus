@@ -4,7 +4,7 @@ Dette dokument indeholder alt hvad du skal bruge (og hvis der mangler noget så 
 
 ## Undervisningsform
 
-* Jeg snakker, I koder :-)
+* Vi koder fra starten af :-)
 * Når det driller søger vi på [google](https://www.google.dk/) (f.eks. efter indlæg på [stackoverflow](http://stackoverflow.com/)), læser i [dokumentationen](https://docs.python.org/2/) (f.eks. [generel hjælp](https://docs.python.org/2/), [basis sproget](https://docs.python.org/2/reference/index.html), [standardbibliotek](https://docs.python.org/2/library/index.html)), bruger Pythons interaktive hjælp ([dir](https://docs.python.org/2/library/functions.html#dir)/[help](https://docs.python.org/2/library/functions.html#help)) og undersøger om der allerede findes et modul der gør det vi vil (f.eks. [pypi](https://pypi.python.org/pypi) og [pip](http://www.pip-installer.org/en/latest/)) 
 * Vi bruger Python 2, fordi forskellen til Python 3 er minimal og fordi [virkeligt mange stadigt bruger Python 2](http://programmers.stackexchange.com/questions/63859/why-do-people-hesitate-to-use-python-3)
 
