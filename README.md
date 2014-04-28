@@ -75,7 +75,7 @@ regex_pattern = '(\d+) [kilometer|km]'
 re.findall(regex_pattern, s.lower())
 ```
 
-Konvertering: en liste af tal -> text string m. komma-separerede tal
+Konvertering: fra en liste af tal -> text string m. komma-separerede tal
 
 ```python
 # Lav  en liste af tal
