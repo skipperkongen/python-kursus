@@ -7,33 +7,122 @@ Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bru
 * Du vil lære at kode Python til [kommandolinjen](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web-programmering](http://flask.pocoo.org/docs/quickstart/) og [GUI-programmerings](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm)
 * Vi bruger Python 2 (stort set det samme som Python 3, og bruges af utroligt mange)
 
-## TODO
+## Links
+
+* [Python docs: oversigt over indbyggede funktioner](https://docs.python.org/2/library/functions.html)
+* [Python docs: documentation af syntax](https://docs.python.org/2/reference/index.html)
+* [Python docs: documentation af standardbibliotet](https://docs.python.org/2/library/index.html)
+* [StackOverflow](http://stackoverflow.com/)
+* [Learn Python](http://www.learnpython.org/)
+
+## Brugbare kode-stumper
+
+Functional programmering, eksempel 1:
+
+```python
+# list comprehension, f.eks. lav en liste af tal-par
+x = [(i, i**2) for i in range(7)]
+# x: [(0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25), (6, 36)]
+
+# map, f.eks. udvaelg element nummer to fra hvert par
+x = map(lambda x: x[1], x)
+# x: [0, 1, 4, 9, 16, 25, 36]
+
+# filter, f.eks. filtre ulige tal fra
+x = filter(lambda x: x % 2 == 0, x)
+# x: [0, 4, 16, 36]
+
+# reduce, f.eks. beregn sum af listens elementer
+x = reduce(lambda x, y: x + y, x, 0)
+# x: 56
+```
+
+Functional programming, eksempel 2:
+
+```python
+# importer string modulet, indeholder f.eks. et ord med alle bogstaver
+import string
+
+# list comprehension, f.eks. lav en liste af alle smaa bogstaver (latinske)
+x = [c for c in string.letters if c.islower()]
+# x: ['a', 'b', 'c', 'd', 'e', 'f', 'g', ... , 'z']
+
+# lav en liste af tal der er lige så lang som listen af bogstaver
+y = range(len(x))
+
+# zip de to lister sammen til en liste af par
+xy = zip(x, y)
+# xy: [('a', 0), ('b', 1), ('c', 2), ... , ('z', 25)]
+
+# lav et dictionary ud af listen af par
+d = dict(xy)
+# d: {'a': 0, 'c': 2, 'b': 1, 'e': 4, 'd': 3, ..., 'x': 23, 'z': 25}
+# bemaerk at raekkefoelgen af keys ikke er den samme som i listen
+```
+
+Search i text-strings med regular expressions (se Python doc om [regular expressions](https://docs.python.org/2/library/re.html)):
 
 ```
-python vejret.py copenhagen dk
-# skal printe vejret lige nu`
+# importer regular expression modulet, re
+import re
 
-http://api.openweathermap.org/data/2.5/weather?q=Copenhagen,dk
+# lav en sætning med de ord vi vil finde
+s = 'en mand gik 50 KILOMETER, en anden mand gik 49 km'
 
-https://docs.python.org/2/library/functions.html
-
-### Snippets
-
-Functional
-
-```
-map, filter, reduce, lambda, in list, zip, list comprehension, dict
+# find alle tal der står foran ordet kilometer
+# (uanset case og uanset om der står kilometer eller km)
+regex_pattern = '(\d+) [kilometer|km]'
+re.findall(regex_pattern, s.lower())
 ```
 
-Regular expression snippets
+Opret tekst-strings fra lister af ting:
 
-```
-findall (tal kilometer) 
+```python
+# Lav  en liste af tal
+s = [1, 2, 3, 4, 5]
+
+# Konverter til en liste af text-tal
+s = map(lambda x: str(x), l)
+
+# Konverter til en enkelt tekst-streng bestaaende af tal adskilt af komma
+s = ', '.join(l)
+# s: '1, 2, 3, 4, 5'
+
+# konverter tilbage til en liste af tal
+# bruger list comprehension og casting af text -> int
+s = [int(c.strip()) for c in s.split(',')]
 ```
 
-I/O
+I/O: filer (read):
 
+```python
+# aaben en fil i read-mode og print dens indholdet
+f = open('eksempel.txt', 'r')
+for line in f:
+	print line
+f.close()
+
+# bedre maade at aabne filer paa
+# saa behoever man ikke lukke dem
+with open('eksempel.txt', 'r') as f:
+	for line in f:
+		# rstrip, saa der ikke kommer to linjeskift
+		print line.rstrip()
+
+I/O: filer (append):
+
+```python
+# lav en liste af ord, split string på mellemrum
+words = 'the quick brown fox'.split()
+# skriv ord til fil, hvert ord på sin egen linje
+# dette er p.g.a. '\n'.join(words)
+with open('eksempel2.txt', 'a') as f:
+	for word in '\n'.join(words):
+		f.write(word)
 ```
+
+
+
 filer, http, COM porte, TCP/IP
 ```
 
