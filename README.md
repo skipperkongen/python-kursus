@@ -125,17 +125,20 @@ with open('eksempel2.txt', 'a') as f:
 		f.write(word)
 ```
 
-
-
-filer, http, COM porte, TCP/IP
-```
-
-Parsing
+Data parsing: hent vejret med JSON via web
 
 ```
-XML, JSON, CSV
-```
+import urllib2
+import json
 
+# hent vejret for Koebenhavn via web
+url = 'http://api.openweathermap.org/data/2.5/weather?q=Copenhagen,dk'
+response = urllib2.urlopen(url)
+
+# parse JSON resultatet
+data = json.load(response)
+print 'Weather in Copenhagen:', data['weather'][0]['description']
+```
 
 ## Program - dag 1
 
