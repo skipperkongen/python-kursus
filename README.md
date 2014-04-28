@@ -7,6 +7,11 @@ Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bru
 * Du vil lære at kode Python til [kommandolinjen](http://stackoverflow.com/questions/1077347/hello-world-in-python), [web-programmering](http://flask.pocoo.org/docs/quickstart/) og [GUI-programmerings](http://effbot.org/tkinterbook/tkinter-hello-tkinter.htm)
 * Vi bruger Python 2 (stort set det samme som Python 3, og bruges af utroligt mange)
 
+## Temp
+
+http://api.openweathermap.org/data/2.5/weather?q=Copenhagen,dk
+
+
 ## Program - dag 1
 
 ### 8:30 - 9:00 (navnerunde og test af installation)
