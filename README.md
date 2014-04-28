@@ -115,8 +115,9 @@ I/O: filer (append):
 ```python
 # lav en liste af ord, split string på mellemrum
 words = 'the quick brown fox'.split()
-# skriv ord til fil, hvert ord på sin egen linje
-# dette er p.g.a. '\n'.join(words)
+
+# append ord til fil ('a' option)
+# hvert ord på sin egen linje, p.g.a. '\n'.join(words)
 with open('eksempel2.txt', 'a') as f:
 	for word in '\n'.join(words):
 		f.write(word)
