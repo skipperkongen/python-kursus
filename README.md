@@ -73,6 +73,8 @@ s = 'en mand gik 50 KILOMETER, en anden mand gik 49 km'
 # (uanset case og uanset om der står kilometer eller km)
 regex_pattern = '(\d+) [kilometer|km]'
 re.findall(regex_pattern, s.lower())
+
+# [50, 49]
 ```
 
 Konvertering: fra en liste af tal -> text string m. komma-separerede tal
