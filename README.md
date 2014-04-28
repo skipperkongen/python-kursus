@@ -62,7 +62,7 @@ d = dict(xy)
 
 Regular expressions: soegning i text efter moenster (se ogsaa Python doc: [regular expressions](https://docs.python.org/2/library/re.html))
 
-```
+```python
 # importer regular expression modulet, re
 import re
 
