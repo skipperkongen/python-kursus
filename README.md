@@ -9,7 +9,38 @@ Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bru
 
 ## Temp
 
+```
+python vejret.py copenhagen dk
+# skal printe vejret lige nu`
+
 http://api.openweathermap.org/data/2.5/weather?q=Copenhagen,dk
+
+https://docs.python.org/2/library/functions.html
+
+Functional snippets
+
+```
+map, filter, reduce, lambda, in list
+```
+
+Regular expression snippets
+
+```
+findall (tal kilometer) 
+```
+
+I/O
+
+```
+filer, http
+```
+
+Parsing
+
+```
+XML, JSON, CSV
+```
+
 
 
 ## Program - dag 1
