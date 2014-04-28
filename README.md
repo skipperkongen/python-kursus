@@ -108,6 +108,7 @@ with open('eksempel.txt', 'r') as f:
 	for line in f:
 		# rstrip, saa der ikke kommer to linjeskift
 		print line.rstrip()
+```
 
 I/O: filer (append):
 
