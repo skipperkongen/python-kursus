@@ -17,7 +17,7 @@ Vi koder fra starten af. Vi løser opgaver og skriver rigtige programmer. Vi bru
 
 ## Brugbare kode-stumper
 
-Functional programmering, eksempel 1:
+Functional programmering: list comprehension, map, filter, reduce
 
 ```python
 # list comprehension, f.eks. lav en liste af tal-par
@@ -37,7 +37,7 @@ x = reduce(lambda x, y: x + y, x, 0)
 # x: 56
 ```
 
-Functional programming, eksempel 2:
+Functional programming: zip, dict
 
 ```python
 # importer string modulet, indeholder f.eks. et ord med alle bogstaver
@@ -60,7 +60,7 @@ d = dict(xy)
 # bemaerk at raekkefoelgen af keys ikke er den samme som i listen
 ```
 
-Search i text-strings med regular expressions (se Python doc om [regular expressions](https://docs.python.org/2/library/re.html)):
+Regular expressions: soegning i text efter moenster (se ogsaa Python doc: [regular expressions](https://docs.python.org/2/library/re.html))
 
 ```
 # importer regular expression modulet, re
@@ -75,7 +75,7 @@ regex_pattern = '(\d+) [kilometer|km]'
 re.findall(regex_pattern, s.lower())
 ```
 
-Opret tekst-strings fra lister af ting:
+Konvertering: en liste af tal -> text string m. komma-separerede tal
 
 ```python
 # Lav  en liste af tal
