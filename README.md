@@ -125,6 +125,18 @@ with open('eksempel2.txt', 'a') as f:
 		f.write(word)
 ```
 
+I/O: COM porte (third party extension der hedder [pyserial](http://sourceforge.net/projects/pyserial/), installer med `pip install serial`)
+
+Jeg har ikke proevet det selv. Eksemplet er hentet fra stackoverflow: [Full examples of using Pyserial package](http://stackoverflow.com/questions/676172/full-examples-of-using-pyserial-package) 
+
+```python
+import serial
+ser = serial.Serial(0)  # open first serial port
+print ser.portstr       # check which port was really used
+ser.write("hello")      # write a string
+ser.close()             # close port
+```
+
 Data parsing: hent vejret med JSON via web
 
 ```python
