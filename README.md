@@ -127,7 +127,7 @@ with open('eksempel2.txt', 'a') as f:
 
 Data parsing: hent vejret med JSON via web
 
-```
+```python
 import urllib2
 import json
 
