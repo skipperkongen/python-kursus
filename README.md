@@ -127,7 +127,7 @@ with open('eksempel2.txt', 'a') as f:
 
 I/O: COM porte (bruger 3rd party extension der hedder [pyserial](http://pyserial.sourceforge.net/), som kan installes med `pip install pyserial`)
 
-Jeg har ikke selv proevet pyserial. Nedenstaaende eksempel er hentet fra stackoverflow: [Full examples of using Pyserial package](http://stackoverflow.com/questions/676172/full-examples-of-using-pyserial-package). Der er [flere eksempler](http://pyserial.sourceforge.net/examples.html) på pyserials hjemmeside.
+Jeg har ikke selv proevet pyserial. Nedenstaaende eksempel er hentet fra stackoverflow: [Full examples of using Pyserial package](http://stackoverflow.com/questions/676172/full-examples-of-using-pyserial-package). Der er [flere (og nok bedre) eksempler](http://pyserial.sourceforge.net/examples.html) på pyserials hjemmeside.
 
 ```python
 import serial
