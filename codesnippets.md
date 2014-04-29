@@ -135,10 +135,20 @@ data = json.load(response)
 print 'Weather in Copenhagen:', data['weather'][0]['description']
 ```
 
-XML Parsing:
+XML Parsing og navigering:
 
 ```python
+# Read XML from file
 import xml.etree.ElementTree as ET
 tree = ET.parse('country_data.xml')
 root = tree.getroot()
+
+root.tag
+# 'data'
+root.attrib
+# {}
+
+# Loop over root children
+for child in root:
+  print child.tag, child.attrib
 ```
