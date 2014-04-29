@@ -69,16 +69,24 @@ print 'Hello world'
 * *pip install pyserial*
 * *pip install flask*
 
-### 9:00 - 11:45 (I/O og parsing)
+### 9:00 - 11:45 (I/O)
 
 * I/O med [filer](codesnippets.md)
-* Web med [flask](http://flask.pocoo.org/docs/quickstart/)
 * Gem Python objekter med [pickle](https://docs.python.org/2/library/pickle.html)
 * [pyserial](http://pyserial.sourceforge.net/examples.html)
 
-### 12:15 - 16:30
+### 10:15 - 11:45 (Text og Parsing)
 
 * [Regular Expressions i Python](https://developers.google.com/edu/python/regular-expressions) (mere info: [Python Regular Expressions](http://www.tutorialspoint.com/python/python_reg_expressions.htm))
 * Parsning af XML ([Parsing](https://docs.python.org/2/library/xml.etree.elementtree.html), [XPath](https://docs.python.org/2/library/xml.etree.elementtree.html#elementtree-xpath))
+* JSON så vi på i går
+
+
+
+### 12:15 - 16:30 (UI - Web og GUI)
+
+* Web med [flask](http://flask.pocoo.org/docs/quickstart/)
+* GUI med Tkinter
+
 
 
