@@ -179,3 +179,5 @@ root.attrib
 for child in root:
   print child.tag, child.attrib
 ```
+
+Regular 

@@ -20,6 +20,7 @@ Documentation:
 Hjælp:
 
 * [StackOverflow](http://stackoverflow.com/)
+* [RegexPal](http://regexpal.com/)
 
 Tutorials:
 
