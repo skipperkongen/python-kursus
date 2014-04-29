@@ -81,8 +81,6 @@ print 'Hello world'
 * Parsning af XML ([Parsing](https://docs.python.org/2/library/xml.etree.elementtree.html), [XPath](https://docs.python.org/2/library/xml.etree.elementtree.html#elementtree-xpath))
 * JSON så vi på i går
 
-
-
 ### 12:15 - 16:30 (UI - Web og GUI)
 
 * Web med [flask](http://flask.pocoo.org/docs/quickstart/)
