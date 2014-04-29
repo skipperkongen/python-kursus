@@ -84,6 +84,7 @@ print 'Hello world'
 
 ### 12:15 - 16:30 (UI - Web og GUI)
 
+* Grillet i grundlæggende Python 
 * Web med [flask](http://flask.pocoo.org/docs/quickstart/)
 * GUI med Tkinter
 
