@@ -74,6 +74,7 @@ print 'Hello world'
 * I/O med [filer](codesnippets.md)
 * Web med [flask](http://flask.pocoo.org/docs/quickstart/)
 * Gem Python objekter med [pickle](https://docs.python.org/2/library/pickle.html)
+* [pyserial](http://pyserial.sourceforge.net/examples.html)
 
 ### 12:15 - 16:30
 
