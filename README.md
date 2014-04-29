@@ -60,3 +60,22 @@ print 'Hello world'
 * Dokumentation i Python (docstrings og dir/help funktioner)
 * [Strenge, tekst og formattering](http://www.learnpython.org/en/String_Formatting)
 * [Grundlæggende operationer på strings](http://www.learnpython.org/en/Basic_String_Operations)
+
+## Program - dag 2
+
+### 8:30 - 9:00 (test af setuptools)
+
+* Installation af pip
+* *pip install pyserial*
+* *pip install flask*
+
+### 9:00 - 11:45 (I/O og web)
+
+* I/O med [filer](codesnippets.md)
+* Web med [flask](http://flask.pocoo.org/docs/quickstart/)
+
+### 12:15 - 16:30
+
+* [Regular Expressions i Python](https://developers.google.com/edu/python/regular-expressions) (mere info: [Python Regular Expressions](http://www.tutorialspoint.com/python/python_reg_expressions.htm))
+* Parsning af XML ([Parsing](https://docs.python.org/2/library/xml.etree.elementtree.html), [XPath](https://docs.python.org/2/library/xml.etree.elementtree.html#elementtree-xpath))
+
