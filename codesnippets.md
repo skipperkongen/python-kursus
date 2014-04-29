@@ -112,6 +112,8 @@ I/O: COM porte (bruger 3rd party extension der hedder [pyserial](http://pyserial
 
 Jeg har ikke selv proevet pyserial. Nedenstaaende eksempel er hentet fra stackoverflow: [Full examples of using Pyserial package](http://stackoverflow.com/questions/676172/full-examples-of-using-pyserial-package). Der er [flere (og nok bedre) eksempler](http://pyserial.sourceforge.net/examples.html) på pyserials hjemmeside.
 
+Se ogsaa [Short Introduction to PySerial](http://pyserial.sourceforge.net/shortintro.html)
+
 ```python
 import serial
 ser = serial.Serial(0)  # open first serial port
