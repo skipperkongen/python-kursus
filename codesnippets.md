@@ -134,3 +134,11 @@ response = urllib2.urlopen(url)
 data = json.load(response)
 print 'Weather in Copenhagen:', data['weather'][0]['description']
 ```
+
+XML Parsing:
+
+```python
+import xml.etree.ElementTree as ET
+tree = ET.parse('country_data.xml')
+root = tree.getroot()
+```
